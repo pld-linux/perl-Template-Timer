@@ -8,13 +8,13 @@
 Summary:	Template::Timer - Rudimentary profiling for Template Toolkit
 Summary(pl):	Template::Timer - podstawowe profilowanie dla Template Toolkitu
 Name:		perl-Template-Timer
-Version:	0.02
-Release:	0.1
+Version:	0.04
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	7c988a054c71835d28ecd089c890e1be
+# Source0-md5:	063b7d84c5cd501a2820f9c2e601eadc
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
