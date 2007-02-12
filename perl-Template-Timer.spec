@@ -6,7 +6,7 @@
 %define	pdir	Template
 %define	pnam	Timer
 Summary:	Template::Timer - Rudimentary profiling for Template Toolkit
-Summary(pl):	Template::Timer - podstawowe profilowanie dla Template Toolkitu
+Summary(pl.UTF-8):   Template::Timer - podstawowe profilowanie dla Template Toolkitu
 Name:		perl-Template-Timer
 Version:	0.04
 Release:	1
@@ -28,9 +28,9 @@ Template::Timer provides inline timings of the template processing
 throughout your code. It's an overridden version of Template::Context
 that wraps the process() and include() methods.
 
-%description -l pl
-Template::Timer udostêpnia mierzenie czasu przetwarzania kodu. Jest
-to przeci±¿ona wersja klasy Template::Context przechwytuj±ca metody
+%description -l pl.UTF-8
+Template::Timer udostÄ™pnia mierzenie czasu przetwarzania kodu. Jest
+to przeciÄ…Å¼ona wersja klasy Template::Context przechwytujÄ…ca metody
 process() i include().
 
 %prep
