@@ -6,7 +6,7 @@
 %define	pdir	Template
 %define	pnam	Timer
 Summary:	Template::Timer - Rudimentary profiling for Template Toolkit
-Summary(pl.UTF-8):   Template::Timer - podstawowe profilowanie dla Template Toolkitu
+Summary(pl.UTF-8):	Template::Timer - podstawowe profilowanie dla Template Toolkitu
 Name:		perl-Template-Timer
 Version:	0.04
 Release:	1
