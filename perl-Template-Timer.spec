@@ -4,7 +4,6 @@
 
 %define	pdir	Template
 %define	pnam	Timer
-%include	/usr/lib/rpm/macros.perl
 Summary:	Template::Timer - Rudimentary profiling for Template Toolkit
 Summary(pl.UTF-8):	Template::Timer - podstawowe profilowanie dla Template Toolkitu
 Name:		perl-Template-Timer
